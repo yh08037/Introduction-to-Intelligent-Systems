@@ -1,5 +1,5 @@
 # Introduction to Intelligent Systems
-2019년 경북대학교 여름계절학기 전김재윤 교수님 지능시스템개론 강의를 듣고 정리하였습니다.
+2019년 경북대학교 여름계절학기 지능시스템개론 강의를 듣고 정리하였습니다.
 
 ## Lab1 : Non-Regularized Linear Regression
 * Batch Gradient Descent
