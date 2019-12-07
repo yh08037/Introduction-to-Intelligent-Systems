@@ -96,3 +96,6 @@
 ## Lab7 : Generative Model : Naive Bayes
 ### TODO
 * Spam Mail Detector with Naive Bayes Classifier
+### Discriminitive model and Generative model
+* Discriminative model learns the conditional probability distribution `p(y|x)`
+* Generative model learns the joint probability distribution `p(x, y)`
