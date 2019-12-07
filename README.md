@@ -4,26 +4,52 @@
 * `tensorflow`, `pytorch` 등의 딥러닝 라이브러리를 사용하지 않고,<br> `numpy`, `matplotlib.pyplot` 모듈만을 사용해 모든 것을 구현하는 것을 목표로 합니다.
 
 ## Lab1 : Non-Regularized Linear Regression
+### TODO
 * Batch Gradient Descent
 * Stochastic Gradient Descent
 * Closed-form solution (Ordinary Least Square)
+### About Training
+![training](images/image1.PNG
+
+<br>
 
 ## Lab2 : Regularized Regression
+### TODO
 Solution of RIDGE problem
 * Gradient Descent
 * Closed form
+### RIDGE and LASSO
+![ridge and lasso](images/image2.PNG)
+
+<br>
 
 ## Lab 3 : Feed Forward Neural Network
+### TODO
 * Implementing FFNN for classification problem
+* Back Propagation with Gradient Descent
+### Model of 2-Layered FFNN
+![ffnn_model](images/image3_1.PNG)
+### Gradient Descent of 2-Layered FFNN
+#### Update Rule of FFNN
+![update rule of ffnn](images/image3_2.PNG)
+#### Gradient of W
+![Gradient of W](images/image3_3.PNG)
+#### Gradient of V
+![Gradient of V](images/image3_4.PNG)
+
+<br>
 
 ## Lab 4 : Feed Back Neural Network (Recurrent Neural Network)
+### TODO
 * Back Propagation
 * Resilient Propagation
 * Gradient Clipping
 
 ## Lab5 : Unsupervised Learning : K-means & PCA
+### TODO
 * K-means
 * PCA
 
 ## Lab7 : Generative Model : Naive Bayes
-* Spam mail Naive Bayes Classifier
+### TODO
+* Spam Mail Detector with Naive Bayes Classifier
