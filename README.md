@@ -22,6 +22,12 @@
   4. regularized 5th-order polynomial (RIDGE)
 ### RIDGE and LASSO
 ![ridge and lasso](images/image2.PNG)
+#### Problem definition of Regularized Regression
+![def](images/image2_1.PNG)
+#### Unconstrained version of Problem
+![laplace](images/image2_2.PNG)
+#### Closed-form Solutoin of RIDGE Problem
+![ols](images/image2_3.PNG)
 
 <br>
 
