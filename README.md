@@ -4,7 +4,7 @@
 * `tensorflow`, `pytorch` 등의 딥러닝 라이브러리를 사용하지 않고,<br> `numpy`, `matplotlib.pyplot` 모듈만을 사용해 모든 것을 구현하는 것을 목표로 합니다.
 
 ## Lab1 : Non-Regularized Linear Regression
-### TODO
+### Tasks
 * Batch Gradient Descent
 * Stochastic Gradient Descent
 * Closed-form solution (Ordinary Least Square)
@@ -24,7 +24,7 @@
 <br>
 
 ## Lab2 : Regularized Regression
-### TODO
+### Tasks
 * Compute and compare solutions for
   1. unregularized linear
   2. unregularized parabolic
@@ -42,7 +42,7 @@
 <br>
 
 ## Lab 3 : Feed Forward Neural Network
-### TODO
+### Tasks
 * Implementing FFNN for classification problem
 * Back Propagation with Gradient Descent
 ### About Training
@@ -60,7 +60,7 @@
 <br>
 
 ## Lab 4 : Feed Back Neural Network (Recurrent Neural Network)
-### TODO
+### Tasks
 * Back Propagation
 * Resilient Propagation
 * Gradient Clipping
@@ -84,7 +84,7 @@
 <br>
 
 ## Lab5 : Unsupervised Learning : K-means & PCA
-### TODO
+### Tasks
 * K-means
 * PCA
 ### K-means
@@ -101,7 +101,7 @@
 <br>
 
 ## Lab7 : Generative Model : Naive Bayes
-### TODO
+### Tasks
 * Spam Mail Detector with Naive Bayes Classifier
 ### Discriminitive model and Generative model
 * Discriminative model 
