@@ -97,5 +97,24 @@
 ### TODO
 * Spam Mail Detector with Naive Bayes Classifier
 ### Discriminitive model and Generative model
-* Discriminative model learns the conditional probability distribution `p(y|x)`
-* Generative model learns the joint probability distribution `p(x, y)`
+* Discriminative model 
+  * learns the conditional probability distribution `p(y|x)`
+  * learns `p(y|x)` directly from the data and then try to classify data
+  * generally give better performance in classification tasks
+* Generative model 
+  * learns the joint probability distribution `p(x, y)`
+  * learns `p(x, y)` which can be transformed into p(y|x) later to classify the data
+  * we can use `p(x, y)` to generate new data similar to existing data
+
+### Naive Bayes Classifier
+#### Prediction Criterion
+![predict](images/predict.PNG)
+#### Model Parameters
+![params](images/image7_1.PNG)
+#### Principle of the Maximum Likelihood Estimation (MLE)
+![mle](images/image7_2.PNG)
+#### Issue : divide by zero
+![issue](images/issue.PNG)
+#### Laplace Smoothing : kind of regularization
+![smooth](images/smoothing.PNG)
+  
