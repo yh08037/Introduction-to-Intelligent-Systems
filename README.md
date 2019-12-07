@@ -3,7 +3,7 @@
 * 기계학습의 기초적인 수학 이론을 공부하고, 이를 `python`으로 구현해봅니다.
 * `tensorflow`, `pytorch` 등의 딥러닝 라이브러리를 사용하지 않고,<br> `numpy`, `matplotlib.pyplot` 모듈만을 사용해 모든 것을 구현하는 것을 목표로 합니다.
 
-## Lab1 : Non-Regularized Linear Regression
+## Lab1 : [Non-Regularized Linear Regression](https://github.com/yh08037/Introduction-to-Intelligent-Systems/blob/master/HW1.ipynb)
 ### Tasks
 * Batch Gradient Descent
 * Stochastic Gradient Descent
@@ -23,7 +23,7 @@
 
 <br>
 
-## Lab2 : Regularized Regression
+## Lab2 : [Regularized Regression](https://github.com/yh08037/Introduction-to-Intelligent-Systems/blob/master/HW2.ipynb)
 ### Tasks
 * Compute and compare solutions for
   1. unregularized linear
@@ -41,7 +41,7 @@
 
 <br>
 
-## Lab 3 : Feed Forward Neural Network
+## Lab 3 : [Feed Forward Neural Network](https://github.com/yh08037/Introduction-to-Intelligent-Systems/blob/master/HW3.ipynb)
 ### Tasks
 * Implementing FFNN for classification problem
 * Back Propagation with Gradient Descent
@@ -59,7 +59,7 @@
 
 <br>
 
-## Lab 4 : Feed Back Neural Network (Recurrent Neural Network)
+## Lab 4 : [Feed Back Neural Network (Recurrent Neural Network)](https://github.com/yh08037/Introduction-to-Intelligent-Systems/blob/master/HW4_save.ipynb)
 ### Tasks
 * Back Propagation
 * Resilient Propagation
@@ -84,6 +84,10 @@
 <br>
 
 ## Lab5 : Unsupervised Learning : K-means & PCA
+1. [K-means A : Clustering some synthetic data](https://github.com/yh08037/Introduction-to-Intelligent-Systems/blob/master/HW5_1_A.ipynb)
+2. [K-means B : Clustering some real data](https://github.com/yh08037/Introduction-to-Intelligent-Systems/blob/master/HW5_1_B_updated.ipynb)
+3. [PCA A : Reducing the dimension of som synthetic data](https://github.com/yh08037/Introduction-to-Intelligent-Systems/blob/master/HW5_2_A.ipynb)
+4. [PCA B : Reduing demension of some real data](https://github.com/yh08037/Introduction-to-Intelligent-Systems/blob/master/HW5_2_B.ipynb)
 ### Tasks
 * K-means
 * PCA
@@ -100,7 +104,7 @@
 
 <br>
 
-## Lab7 : Generative Model : Naive Bayes
+## Lab7 : [Generative Model : Naive Bayes](https://github.com/yh08037/Introduction-to-Intelligent-Systems/blob/master/HW7.ipynb)
 ### Tasks
 * Spam Mail Detector with Naive Bayes Classifier
 ### Discriminitive model and Generative model
