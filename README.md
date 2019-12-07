@@ -9,7 +9,7 @@
 * Stochastic Gradient Descent
 * Closed-form solution (Ordinary Least Square)
 ### About Training
-![training](images/image1.PNG
+![training](images/image1.PNG)
 
 <br>
 
@@ -44,11 +44,34 @@ Solution of RIDGE problem
 * Back Propagation
 * Resilient Propagation
 * Gradient Clipping
+### Elman Model of RNN
+![elman](images/image4_1.PNG)
+### Gradient Descent of RNN
+#### Update Rule of RNN
+![rule](images/image4_2.PNG)
+#### Gradient of Vx
+![Vx](images/image4_3.PNG)
+#### Gradient of Vf
+![Vf](images/image4_4.PNG)
+
+<br>
 
 ## Lab5 : Unsupervised Learning : K-means & PCA
 ### TODO
 * K-means
 * PCA
+### K-means
+#### Difference of Classification and Clustering
+![kmeans](images/image5_1.PNG)
+#### Algorithm for K-means
+![alg_kmeans](images/image5_2.PNG)
+### PCA
+#### What is 'Principal Component'
+![pca](images/image5_3.PNG)
+#### Algorithm for PCA
+![alg_pca](images/image5_4.PNG)
+
+<br>
 
 ## Lab7 : Generative Model : Naive Bayes
 ### TODO
