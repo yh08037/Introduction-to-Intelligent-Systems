@@ -15,9 +15,11 @@
 
 ## Lab2 : Regularized Regression
 ### TODO
-Solution of RIDGE problem
-* Gradient Descent
-* Closed form
+* Compute and compare solutions for
+  1. unregularized linear
+  2. unregularized parabolic
+  3. unregularized 5th-order polynomial
+  4. regularized 5th-order polynomial (RIDGE)
 ### RIDGE and LASSO
 ![ridge and lasso](images/image2.PNG)
 
