@@ -73,6 +73,13 @@
 ![Vx](images/image4_3.PNG)
 #### Gradient of Vf
 ![Vf](images/image4_4.PNG)
+### Issue : Gradient Vanishing / Explosion
+![issue](images/image4_5.PNG)
+#### Resilient Propagation : accelerate / slow down steps
+![rp](images/image4_6.PNG)
+#### Gradient Clipping : Prevent Explosion
+![gc](images/image4_7.PNG)
+
 
 <br>
 
