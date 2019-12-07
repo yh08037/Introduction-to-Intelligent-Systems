@@ -8,8 +8,18 @@
 * Batch Gradient Descent
 * Stochastic Gradient Descent
 * Closed-form solution (Ordinary Least Square)
-### About Training
-![training](images/image1.PNG)
+### Linear Regression
+#### Hypothesis Function
+![h](images/image1_1.PNG)
+#### Definition of Problem : Cost Minimization
+![def](images/image1_2.PNG)
+#### Batch Gradient Descent
+![bgd](images/image1_3.PNG)
+#### Stochastic Gradient Descent
+![sgd](images/image1_4.PNG)
+#### Closed-form Solution (Ordinary Least Square)
+![ols](images/image1_5.PNG)
+
 
 <br>
 
@@ -35,6 +45,8 @@
 ### TODO
 * Implementing FFNN for classification problem
 * Back Propagation with Gradient Descent
+### About Training
+![training](images/image1.PNG)
 ### Model of 2-Layered FFNN
 ![ffnn_model](images/image3_1.PNG)
 ### Gradient Descent of 2-Layered FFNN
